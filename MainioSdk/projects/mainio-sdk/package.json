@@ -1,0 +1,33 @@
+{
+  "name": "mainio-sdk",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "rxjs-compat": "6.0.0-tactical-rc.1",
+    "rxjs": "^6.0.0"
+  },
+  "author": {
+    "name": "Juha Möttönen",
+    "email": "juha.mottonen@mainio.co",
+    "url": "https://twitter.com/JuhaMttnen"
+  },
+  "description": "Mainio HTTP Access SDK",
+  "homepage": "https://github.com/Mainioco/forms",
+  "keywords": [
+    "mainio",
+    "angular",
+    "sdk"
+  ],
+  "devDependencies": {},
+  "bugs": {
+    "email": "tutkimus@mainio.co",
+    "url": "https://github.com/Mainioco/sdk/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mainioco/sdk.git"
+  },
+  "private": false
+}
